@@ -7,6 +7,7 @@ This website show's the varoius type's of pizza's that are being offered at the 
 ## Live Link
 
 ## BDD
-Behaviour	Input Output Enter your name Andrew Odongo Enter your Order 	two-pizza's  Enter your location and phone number Tel:0740478651 Press Submit	Pop up "Amount appears and the delivery cost" , we have received your message. Thank you for reaching out to us 
-
+Behaviour	Input Output Enter your name Andrew Odongo Enter your Order 	two-pizza's  Enter your location and phone number Tel:0740478651 Press Submit	Pop up "Amount appears and the delivery cost" , we have received your message. Thank you for reaching out to us.
+## License
+licensed under{MIT}.LICENSED
 
