@@ -18,6 +18,6 @@ for more information Tel:+254740478651
 https://andrew1440.github.io/pizza/
 ## BDD
 Behaviour	Input Output Enter your name Andrew Odongo Enter your Order 	two-pizza's  Enter your location and phone number Tel:0740478651 Press Submit	Pop up "Amount appears and the delivery cost" , we have received your message. Thank you for reaching out to us.
-## License
-licensed under{MIT}.LICENSED
+## Licence
+licenced under{MIT}.(LICENcED)
 
