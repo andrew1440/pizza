@@ -17,7 +17,9 @@ for more information Tel:+254740478651
 ## Live Link
 https://andrew1440.github.io/pizza/
 ## BDD
-Behaviour	 Input  Output 
+Behaviour	 Input
+
+Output 
 
 Enter your name Andrew Odongo 
 
