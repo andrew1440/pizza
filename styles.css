@@ -21,6 +21,9 @@ nav{
 .container{
 
   text-align: center;
+  background: burlywood;
+  box-shadow: 0 0 20px rgb(0, 0, 0)
+
 }
 .card-columns {
   @include media-breakpoint-only(lg) {
@@ -28,6 +31,7 @@ nav{
   }
   @include media-breakpoint-only(xl) {
     column-count: 5;
+    background-image:grey;
   }
 }
 
@@ -44,11 +48,57 @@ nav > ul > li > a:hover{
     color rgb (0,0,0)
 }
 h1,h2{
-    color:#f7325e;
+    color:black;
 }
 p{
-    color:#1d1b07;
+    color:black;
 }
 .footer{
   background-image: grey;
 }
+.contact {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 150px;
+  text-align: center;
+  padding-top: 30px;
+}
+.d-block{
+  background: grey;
+  box-shadow: 0 0 20px rgb(0, 0, 0)
+}
+
+.title {
+  padding: 6px;
+}
+
+.contact h2 {
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-family: 'Gabriela', serif;
+}
+/* ---------------------------------------------
+          FOOTER SECTON
+--------------------------------------------- */
+#footer{
+  background-color: darkkhaki;
+  padding-top: 40px;
+  text-align: center;
+}
+footer img{
+  background-color: black;
+  border-radius: 50%;
+  transition: 0.2s ease-out;
+}
+footer img:hover{
+  transform: scale(0.8);
+  padding: 3px;
+  margin: -3px;
+  background: rgb(255, 145, 0);
+  box-shadow: 0 0 20px rgb(0, 0, 0);
+}
+
