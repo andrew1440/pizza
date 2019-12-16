@@ -8,7 +8,7 @@ nav{
   right:0;
 }
 .home{
-  background-image: url(img/c0d9c782a895771acfe40ceb6bbdab4b.jpg);
+  background-image: url("img/Pinterest_files/cc4e1de7025633fb8c1e91eca8a0f147(1).jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding: 450px;
@@ -19,7 +19,7 @@ nav{
   text-align: center;
 }
 .container{
-
+  margin: 20px;
   text-align: center;
   background: darkgray;
   box-shadow: 0 0 20px rgb(0, 0, 0)
@@ -85,7 +85,7 @@ p{
           FOOTER SECTON
 --------------------------------------------- */
 #footer{
-  background-color: burlywood;
+  background-color: darkgray;
   padding-top: 40px;
   text-align: center;
 }
