@@ -8,7 +8,7 @@ nav{
   right:0;
 }
 .home{
-  background-image: url(img/c3987208cb1d189a8d1bcfe48a871d9c.jpg);
+  background-image: url(img/c0d9c782a895771acfe40ceb6bbdab4b.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 450px;
@@ -21,7 +21,7 @@ nav{
 .container{
 
   text-align: center;
-  background: burlywood;
+  background: darkgray;
   box-shadow: 0 0 20px rgb(0, 0, 0)
 
 }
@@ -85,7 +85,7 @@ p{
           FOOTER SECTON
 --------------------------------------------- */
 #footer{
-  background-color: darkkhaki;
+  background-color: burlywood;
   padding-top: 40px;
   text-align: center;
 }
