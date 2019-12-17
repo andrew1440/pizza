@@ -12,6 +12,7 @@ nav{
   background-size: cover;
   background-repeat: no-repeat;
   padding: 450px;
+  margin: 20px;
 
 }
 .About{
@@ -24,6 +25,10 @@ nav{
   background: darkgray;
   box-shadow: 0 0 20px rgb(0, 0, 0)
 
+}
+.order{
+  text-align: center;
+  margin: 20px;
 }
 .card-columns {
   @include media-breakpoint-only(lg) {
@@ -67,7 +72,8 @@ p{
 }
 .d-block{
   background: grey;
-  box-shadow: 0 0 20px rgb(0, 0, 0)
+  box-shadow: 0 0 20px rgb(0, 0, 0);
+  margin : 20px;
 }
 
 .title {
@@ -88,6 +94,7 @@ p{
   background-color: darkgray;
   padding-top: 40px;
   text-align: center;
+  margin: 20px;
 }
 footer img{
   background-color: black;

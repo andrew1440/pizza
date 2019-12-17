@@ -15,23 +15,27 @@ var pizzaFlavour = [
     var flavour = document.getElementById("pizzaflavour").value;
     return parseInt(flavour);
   }
+  break;
   function getSize() {
     var size = document.getElementById("pizzasize").value;
     return parseInt(size);
   }
+  break;
   function getCrust() {
     var crust = document.getElementById("pizzacrust").value;
     return parseInt(crust);
   }
+  break;
   function getTopping() {
     var topping = document.getElementById("pizzatopping").value;
     return parseInt(topping);
   }
+  break;
   function getNumber() {
     var number = document.getElementById("number").value;
     return parseInt(number);
   }
-  
+  break;
   function getAmount() {
     var results =
       (getFlavour() + getSize() + getCrust() + getTopping()) * getNumber();
